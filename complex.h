@@ -4,7 +4,7 @@
 #include <cassert>
 
 // Эпсилон для сравнения вещественных чисел
-const double epsilon = 1e-10;
+constexpr epsilon = 1e-10;
 
 class Complex {
 private:
