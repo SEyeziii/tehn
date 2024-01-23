@@ -1,5 +1,5 @@
 #include "gtest/gtest.h" // Подключение библиотеки Google Test
-#include "complex.h"     // Замените "Complex.h" на путь к вашему заголовочному файлу
+#include "complex.h"     // Замените "complex.cpp" на путь к вашему заголовочному файлу
 
 // Тесты для методов класса Complex
 
